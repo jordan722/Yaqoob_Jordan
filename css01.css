@@ -1,0 +1,22 @@
+body {
+    color:black;
+    background-color:#ccf5ff
+}
+
+h1 {
+    text-align:center;
+    background-color:#cce0ff;
+    font-size:3em
+}
+
+a:link {
+    color:blue
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    color:#006680
+}
