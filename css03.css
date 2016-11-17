@@ -1,0 +1,50 @@
+body {
+    background:#828A95
+}
+
+h1 {
+    font-size:3em;
+}
+
+.extreme{
+    background:#DCB8CB;
+    color:#CEEAF7;
+    text-align:center;
+    border: 2px solid;
+    border-radius:25px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.navzone{
+
+}
+
+.content{
+    background:#DCB8CB;
+    color:#CEEAF7;
+    text-align:center;
+    border: 2px solid;
+    border-radius:25px;
+}
+
+.prose{
+}
+
+#head1{
+}
+
+#tehlulz{
+}
+
+a:link {
+    color:blue
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    color:#006680
+}
