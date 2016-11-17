@@ -3,10 +3,22 @@ body {
     background-color:#ccf5ff
 }
 
-h1 {
+h1{
     text-align:center;
     background-color:#cce0ff;
     font-size:3em
+}
+
+h2{
+    text-align:left;
+    background-color:#cce0ff;
+    font-size:2em
+}
+
+h3{
+    text-align:left;
+    background-color:#cce0ff;
+    font-size:2em
 }
 
 a:link {
@@ -19,4 +31,8 @@ a:visited {
 
 a:hover {
     color:#006680
+}
+
+p {
+    color: purple
 }

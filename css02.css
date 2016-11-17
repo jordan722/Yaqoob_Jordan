@@ -1,0 +1,50 @@
+body {
+    color:#ff0000;
+    background-color:red
+}
+
+h1{
+    text-align:center;
+    background-color:#00ff00;
+    font-size:4em
+}
+
+h2{
+    text-align:left;
+    background-color:#00ff00;
+    font-size:1em
+}
+
+h3{
+    text-align:left;
+    background-color:#00ff00;
+    font-size:2em
+}
+
+a:link {
+    color:blue
+}
+
+a:visited {
+    color:yellow
+}
+
+a:hover {
+    color:#006680
+}
+
+ul {
+    background:#b300b3;
+    padding:30x
+}
+
+ul li {
+    background:#ff9999;
+    padding: 10px;
+    margin:5px
+}
+
+p {
+    color:orange;
+    text-align:center
+}
