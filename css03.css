@@ -2,8 +2,8 @@ body {
     background:#828A95
 }
 
-h1 {
-    font-size:3em;
+h3 {
+    text-align:center
 }
 
 .extreme{
@@ -11,13 +11,21 @@ h1 {
     color:#CEEAF7;
     text-align:center;
     border: 2px solid;
+    border-color:#CCD7E4;
     border-radius:25px;
-    margin-top:10px;
-    margin-bottom:10px;
+    margin-top:20px;
+    margin-bottom:20px;
 }
 
 .navzone{
-
+    background:#DCB8CB;
+    color:#CEEAF7;
+    text-align:left;
+    border: 2px solid;
+    border-color:#CCD7E4;
+    border-radius:25px;
+    margin-top:20px;
+    margin-bottom:20px;
 }
 
 .content{
@@ -25,13 +33,16 @@ h1 {
     color:#CEEAF7;
     text-align:center;
     border: 2px solid;
+    border-color:#CCD7E4;
     border-radius:25px;
 }
 
 .prose{
+    font-style:italic
 }
 
 #head1{
+    font-size:2em;
 }
 
 #tehlulz{
@@ -46,8 +57,7 @@ a:visited {
 }
 
 a:hover {
-    color:#006680
+    color:#CEEAF7
 }
 
 
-https://coolors.co/828a95-ceeaf7-ccd7e4-d5c9df-dcb8cb
