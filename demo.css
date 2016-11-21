@@ -1,0 +1,84 @@
+body {
+    background:#828A95
+}
+
+h1 {
+    text-align:center;
+    font-size:3em;
+    margin:5px;
+}
+
+h2 {
+    text-align:center;
+    font-size:2em;
+    margin:5px
+}
+
+.top{
+    background:#DCB8CB;
+    color:#CEEAF7;
+    text-align:center;
+    border: 2px solid;
+    border-color:#CCD7E4;
+    border-radius:25px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.middle{
+    background:#DCB8CB;
+    color:#CEEAF7;
+    text-align:left;
+    border: 2px solid;
+    border-color:#CCD7E4;
+    border-radius:25px;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding:15px;
+}
+
+.content{
+    background:#DCB8CB;
+    color:#CEEAF7;
+    text-align:center;
+    border: 2px solid;
+    border-color:#CCD7E4;
+    border-radius:25px;
+}
+
+.checkboxes{
+    font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+#head1{
+    font-size:2em;
+}
+
+#tehlulz{
+    font-weight:bold;
+}
+
+a:link {
+    color:blue
+}
+
+a:visited {
+    color: purple
+}
+
+a:hover {
+    color:#CEEAF7
+}
+
+input[type="checkbox"]:checked + label{
+    font-size:1.5em;
+    text-shadow: 2px 2px #FF0000;
+}
+
+input[type="submit"]:hover {
+    text-shadow: 1px 1px #FF0000;
+}
+
+input[type="checkbox"], label, input[type="submit"]:hover{
+    cursor:pointer;
+}

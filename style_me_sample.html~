@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <h1>
+      Here is a demo of CSS tricks I displayed
+    </h1>
+
+    <h2> Changing style of check values </h2>
+    <<form action="">
+	   <input type="checkbox" name="" value="">I have a bike<br>
+	   <input type="checkbox" name="" value="">I have a car
+    </form>
